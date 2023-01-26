@@ -1,6 +1,6 @@
 # MARS MERKUR perFEKT SUPERFINÁLE
 
-## Scripts for merkur perfekt challenge superfinale.
+## Scripts for merkur perfekt challenge superfinale - by team MARS.
 
 26.1.2023
 
@@ -9,6 +9,9 @@ https://www.fekt.vut.cz/merkur/
 ### Zadání
 Vytvořit ze stavebnice Merkur autonomní vozítko, které objede dokola překážku ve tvaru válce a následně  se vrátí na start.
 Hodnotí se čas úkonu, konstrukční řešení, algoritmus, vzhled a připojení dalších přídavných komponent.
+  
+## Naše řešení:
+![BOB](https://user-images.githubusercontent.com/101503581/214951105-bcd85740-ce73-494b-b07c-6685154a1e0a.jpeg)
 
 ### Použité komponenty:
   - stavebnice MERKUR
@@ -22,3 +25,4 @@ Hodnotí se čas úkonu, konstrukční řešení, algoritmus, vzhled a připojen
   - IR senzor
   - LED semafor
   - propojky
+[logo.vse.pdf](https://github.com/cronos32/MARS-MERKUR-perFEKT-SUPERFINALE/files/10513549/logo.vse.pdf)
