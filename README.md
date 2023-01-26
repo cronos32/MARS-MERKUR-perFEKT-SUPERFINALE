@@ -2,7 +2,9 @@
 
 ## Scripts for merkur perfekt challenge superfinale - by team MARS.
 
-26.1.2023
+![MARSLOGO2](https://user-images.githubusercontent.com/101503581/214957002-a75f8f91-1d16-4b58-8018-33c0e8f26aec.png)
+
+Superfinále proběhlo 26.1.2023
 
 https://www.fekt.vut.cz/merkur/
 
@@ -25,4 +27,3 @@ Hodnotí se čas úkonu, konstrukční řešení, algoritmus, vzhled a připojen
   - IR senzor
   - LED semafor
   - propojky
-[logo.vse.pdf](https://github.com/cronos32/MARS-MERKUR-perFEKT-SUPERFINALE/files/10513549/logo.vse.pdf)
