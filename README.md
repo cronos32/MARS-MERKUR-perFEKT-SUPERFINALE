@@ -10,7 +10,7 @@ https://www.fekt.vut.cz/merkur/
 
 ### Zadání
 Vytvořit ze stavebnice Merkur autonomní vozítko, které objede dokola překážku ve tvaru válce a následně se vrátí na start.
-Hodnotí se čas úkonu, konstrukční řešení, algoritmus, vzhled a připojení dalších přídavných komponent.
+Hodnotí se čas úkonu, konstrukční řešení, algoritmus, vzhled, týmová spolupráce a připojení dalších přídavných komponent.
   
 ## Naše řešení, náš Bob:
 ![BOB](https://user-images.githubusercontent.com/101503581/214951105-bcd85740-ce73-494b-b07c-6685154a1e0a.jpeg)
