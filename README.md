@@ -1,6 +1,6 @@
 # MARS MERKUR perFEKT CHALLENGE SUPERFINÁLE
 
-## Scripts for merkur perfekt challenge superfinale - by team MARS.
+## Scripts for merkur perfekt challenge superfinale - by team MARS
 
 ![MARSLOGO2](https://user-images.githubusercontent.com/101503581/214957002-a75f8f91-1d16-4b58-8018-33c0e8f26aec.png)
 
