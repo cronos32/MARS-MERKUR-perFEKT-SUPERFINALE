@@ -1,4 +1,4 @@
-# MARS MERKUR perFEKT SUPERFINÁLE
+# MARS MERKUR perFEKT CHALLENGE SUPERFINÁLE
 
 ## Scripts for merkur perfekt challenge superfinale - by team MARS.
 
